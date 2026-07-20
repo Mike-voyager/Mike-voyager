@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mike Voyager
 
-<!--
-**Mike-voyager/Mike-voyager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer building security-minded automation and document-processing systems.
 
-Here are some ideas to get you started:
+📌 Open to Python, automation, and security-adjacent engineering roles — remote, EU/CET time zones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Built from scratch:**
+- [FX-Text-Processor-3](https://github.com/Mike-voyager/FX-Text-processor-3) — document-processing system with ESC/P support, 6,000+ tests, and 80–95% coverage
+- FX-Translator — local, privacy-preserving PDF layout analysis and translation pipeline
+
+**Daily stack:** Python · pytest · mypy · ruff · bandit · Linux · SQL
+
+**Currently:** finalizing FX-Text-Processor-3 for release and preparing first upstream contributions to Python security and tooling projects.
+
+📬 [mike.voyager.dev@gmail.com](mailto:mike.voyager.dev@gmail.com)
